@@ -1,4 +1,4 @@
-# Simple-Calculator
+# Simple_Calculator
 
 ## General info
 This is a simple calculator, a small project I made during the first semester of IT studies. The idea of it was to try to make a GUI and use strategy pattern.It was my first project with graphical user interface.
