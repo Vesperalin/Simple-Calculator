@@ -10,3 +10,6 @@ Also this repository is the first that I' ve ever made. It is a good way to prac
 
 ## Design Pattern
 * MVC
+
+## Project View
+![Calculator](https://user-images.githubusercontent.com/68510280/89432163-11d15900-d741-11ea-9c58-76cc1878ad0f.png)
