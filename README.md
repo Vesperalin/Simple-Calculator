@@ -5,7 +5,7 @@ This is a simple calculator, a small project I made during the first semester of
 
 Also this repository is the first that I' ve ever made. It is a good way to practice Git and Github for me.
 
-## Project Language
+## Programming Language
 * Java
 
 ## Design Pattern
